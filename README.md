@@ -64,6 +64,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </div>
 
 ## :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GunalGupta&theme=dark)](https://git.io/streak-stats)
+<a href="http://www.github.com/GunalGupta"><img src="https://github-readme-stats.vercel.app/api?username=GunalGupta&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=false&show_icons=true" alt="Gunal Gupta's GitHub stats" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GunalGupta&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GunalGupta&theme=vision-friendly-dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GunalGupta&layout=donut-vertical&theme=vision-friendly-dark)](https://github.com/GunalGupta/github-readme-stats)
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/GunalGupta/Bank" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GunalGupta&repo=Bank&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=false&locale=en" /></a><a href="https://github.com/GunalGupta/Academic-Plagiarism-Checker---For-Handwritten-Submissions" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GunalGupta&repo=Academic-Plagiarism-Checker---For-Handwritten-Submissions&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=false&locale=en" /></a>
+</div><br /><br /><br /><br /><br /><br /><br />

@@ -46,10 +46,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   <img src="https://media.dev.to/cdn-cgi/image/width=1000,height=520,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh8vshokrazrgrnurqed8.jpg" title="NextJs" alt="NextJs" width="80" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://i0.wp.com/blog.fossasia.org/wp-content/uploads/2017/07/handlebars-js.png?fit=500%2C500&ssl=1" title="Handlebars" alt="Handlebars" width="60" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://bashlogo.com/img/logo/jpg/full_colored_light.jpg" title="Shell Script" alt="Shell Script" width="80" height="40"/> 
   <img src="https://github.com/GunalGupta/GunalGupta/assets/97979413/6bde1990-e085-4a5b-8596-615d579f1449" title="LaTeX" alt="LaTeX" width="100" height="40"/> 
@@ -57,7 +58,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/> 
   <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.png" title="Streamlit" alt="Streamlit" width="60" height="40"/> 
   <img src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" alt="tailwind" width="50" height="40"/> 
-  <img src="https://github.com/GunalGupta/GunalGupta/assets/97979413/1d8c6f57-16d7-4131-a5ac-f653d6ffa877" title="OpenAI" alt="OpenAI" width="90" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/devicon/devicon-original.svg" title="Devicon" alt="Devicon" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/GunalGupta/GunalGupta/assets/97979413/1d8c6f57-16d7-4131-a5ac-f653d6ffa877" title="OpenAI" alt="OpenAI" width="100" height="40"/>&nbsp;
 </div>
+
+## :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GunalGupta&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GunalGupta&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

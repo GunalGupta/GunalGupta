@@ -1,6 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gunal Gupta
+Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gunal Gupta
 ======================================================================================================================================
 ## :man_technologist: About Me :
+<img align="right" width="175" alt="" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+
 <h4>A Full-Stack developer | Software Developer</h4>
 
 - 🔭 I’m currently a Pre-final Year student @IIIT Vadodara ICD
@@ -10,30 +12,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’m always crawling the internet in search of new tech discoveries and stories
 
-## 🌐 Socials:
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/gunal-gupta/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://instagram.com/gunalgupta05/">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-    </a>
-    <a href="https://twitter.com/gunalgupta">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-    <a href="https://www.youtube.com/@gunalgupta">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
-    <a href="https://peerlist.io/gunalgupta"/>
-      <img src="https://github-readme-badge.peerlist.io/api/gunalgupta" alt="Peerlist Badge" />
-    </a>
-  </div>
-  <div id="profile-count">
-    <img src="https://komarev.com/ghpvc/?username=GunalGupta&style=flat-square&color=blue" alt=""/>
-  </div>
-</div>
 
 ## :hammer_and_wrench: Languages and Tools :
 <div>
@@ -70,7 +48,32 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GunalGupta&layout=donut-vertical&theme=vision-friendly-dark)](https://github.com/GunalGupta/github-readme-stats)
 
-<b>Top Repositories</b>
+## Top Repositories
 
 <div width="100%" align="center"><a href="https://github.com/GunalGupta/Bank" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GunalGupta&repo=Bank&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=false&locale=en" /></a><a href="https://github.com/GunalGupta/Academic-Plagiarism-Checker---For-Handwritten-Submissions" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GunalGupta&repo=Academic-Plagiarism-Checker---For-Handwritten-Submissions&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=false&locale=en" /></a>
 </div><br /><br /><br /><br /><br /><br /><br />
+
+## 🌐 Socials:
+<div id="header" align="center">
+  <img align="right" src="https://media.makeameme.org/created/dont-just-look-ply0pl.jpg" width="250"/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/gunal-gupta/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://instagram.com/gunalgupta05/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    </a>
+    <a href="https://twitter.com/gunalgupta">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+    <a href="https://www.youtube.com/@gunalgupta">
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    </a>
+    <a href="https://peerlist.io/gunalgupta"/>
+      <img src="https://github-readme-badge.peerlist.io/api/gunalgupta?style=for-the-badge" alt="Peerlist Badge" />
+    </a>
+  </div>
+  <div id="profile-count">
+    <img src="https://komarev.com/ghpvc/?username=GunalGupta&style=flat-square&color=blue" alt=""/>
+  </div>
+</div>

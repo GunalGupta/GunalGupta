@@ -55,7 +55,6 @@ Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
 ## 🌐 Socials:
 <div id="header" align="center">
-  <img align="right" src="https://media.makeameme.org/created/dont-just-look-ply0pl.jpg" width="250"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/gunal-gupta/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>

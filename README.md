@@ -5,7 +5,7 @@ Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
 <h4>A Full-Stack developer | Software Developer</h4>
 
-- 🔭 I’m currently a Pre-final Year student @IIIT Vadodara ICD
+- 🔭 I’m currently a Final Year student @IIIT Vadodara ICD
 - 🌱 I’m interested to work on Web 3.0
 - 💬 Ask me about Technology & Finance
 - 📫 How to reach me: guptagunal@gmail.com

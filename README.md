@@ -3,7 +3,7 @@ Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 ## :man_technologist: About Me :
 <img align="right" width="175" alt="" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
-<h4>An AI Engineer | Software Developer</h4>
+<h4>A Software Developer</h4>
 
 - 🔭 CSE @IIIT Vadodara
 - 🌱 I’m interested to work on bringing Automation through AI Agents
